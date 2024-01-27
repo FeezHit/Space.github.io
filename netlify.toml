@@ -2,3 +2,8 @@
 from = "/*"
 to = "/index.html"
 status = 200
+
+[[redirects]]
+from = "/series"
+to = "/series"
+status = 200
